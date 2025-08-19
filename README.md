@@ -3,5 +3,5 @@
 - 💞️ I’m looking to collaborate on IOS Projects 
 - 📫 How to reach me harshahay9@gmail.com
 - I'm an IOS Application Developer using SwiftUI Most of the time
-- Do Freelancing as UI/UX designer
+- Doing Freelancing as UI/UX designer
 - I'm currently learning Python
